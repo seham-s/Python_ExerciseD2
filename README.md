@@ -1,0 +1,1 @@
+We learned about Python functions, including setting default values, managing variables, writing function documentation, and handling different types of arguments. We also covered how to use recursion, add type hints, and import Python modules into other scripts.
